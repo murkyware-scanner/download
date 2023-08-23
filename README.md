@@ -1,7 +1,8 @@
 # [Murkyware™](https://murkyware.com) :: World's First Software Profiling Service
 
 ## Introduction
-Ransomware Detection Tool by Murkyware™
+**Ransomware Detection Tool by Murkyware™**  
+ONE YEAR LICENSE WITH DAILY THREATS UPDATE - Licensed under a CC BY-NC-ND 4.0 International License
 
 Murkyware™ Scanner search and identify phishing documents and MITRE ATT&CK® software tools weaponized by ransomware operators to conduct reconnaissance, infiltration, lateral movement, collection, and exfilteration.
 
