@@ -1,5 +1,8 @@
 Copyright (C) 2023 Murkyware™
 
+Ransomware Detection Tool by Murkyware™ - ONE YEAR LICENSE WITH DAILY THREATS UPDATE  
+Licensed under a CC BY-NC-ND 4.0 International License
+
 # Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License
 
 This work is licensed under the [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](https://creativecommons.org/licenses/by-nc-nd/4.0/).
